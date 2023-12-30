@@ -31,3 +31,4 @@
 //    }
 //   console.log(bag)
 // }
+// alert(you are at home);
